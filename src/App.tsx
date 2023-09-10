@@ -1,5 +1,5 @@
 import { useEffect, useRef, useState } from "react";
-import { useDrag } from "@use-gesture/react";
+import { useDrag } from "@use-gesture/react"; 
 
 interface Note {
   text: string;
